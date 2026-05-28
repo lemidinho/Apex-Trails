@@ -1,0 +1,6 @@
+{
+  "name": "Apex Track",
+  "description": "A feature-rich running and cycling activity tracker with customizable equipment checklists, personal best counters, social leaderboards, offline persistence, and a striking neon orange dark mode visual aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

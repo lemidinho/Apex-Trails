@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing Red/Orange Sunset Sun -->
+    <path
+        android:fillColor="#FFFF3D00"
+        android:pathData="M54,26 A20,20 0 1,0 54,66 A20,20 0 1,0 54,26 Z" />
+    <path
+        android:fillColor="#FFFFEA00"
+        android:pathData="M54,32 A14,14 0 1,0 54,60 A14,14 0 1,0 54,32 Z" />
+
+    <!-- Left Mountain Peak (Electric Cyan) -->
+    <path
+        android:fillColor="#FF00E5FF"
+        android:pathData="M16,84 L46,42 L68,84 Z" />
+
+    <!-- Right Mountain Peak (Vibrant Emerald Green) -->
+    <path
+        android:fillColor="#FF00E676"
+        android:pathData="M42,84 L68,48 L92,84 Z" />
+
+    <!-- Winding Mountain Trail Path winding upward into the peaks (White highlight) -->
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,84 C42,76 68,68 54,58 C46,51 58,45 54,40" />
+</vector>
